@@ -50,3 +50,5 @@ than 0, the item will grow proportionally to the amount of available space.
     flex-basis: 160px;
 }
 ```
+
+Save the files, and open Html document in browser top review flexboxes.
